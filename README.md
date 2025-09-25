@@ -1,9 +1,5 @@
 <!-- GitHub 首页 README.md 文件 -->
 <!-- ======================= 头部横幅区 ======================= -->
-<div align="center">
-  <!-- 动态欢迎语（可选） -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=欢迎访问我的代码世界!;无限进步;Stay Hungry, Stay Foolish" alt="动态欢迎语">
-  
   <!-- 个人标语 -->
   <h1>👋 你好，我是 <b>Jerry</b></h1>
   <h3>🚀 AI 爱好者 | ACM爱好者 | Python自动化爱好者</h3>
