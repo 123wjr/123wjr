@@ -84,6 +84,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123wjr&layout=compact&theme=radical" alt="常用语言">
 </div>
 
+![123wjr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=123wjr&theme=github)
 <!-- ======================= 联系区 ======================= -->
 ## 📫 找到我
 <!-- 联系方式图标 -->
@@ -97,5 +98,5 @@
 <!-- ======================= 个性签名区 ======================= -->
 <div align="center">
   <!-- 动态访问统计 -->
-  <img src="https://komarev.com/ghpvc/?username=123wjr&label=个人主页访问量&color=blueviolet" alt="访问统计">
+  <img src="https://komarev.com/ghpvc/?username=123wjr&label=个人主页访问量&color=blueviolet" alt="visitors">
 </div>
